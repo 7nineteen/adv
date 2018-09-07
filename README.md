@@ -1,2 +1,2 @@
-# adv-block
-some filters for blocking unused link in machine learning or in browser
+# adv-ock
+some filters for blocking unused link in w7 or in browser
